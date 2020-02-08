@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fragment_1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="easy_message">EASY</string>
+    <string name="medium_message">MEDIUM</string>
+    <string name="high_message">HARD</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+</resources>
